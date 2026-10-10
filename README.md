@@ -23,7 +23,7 @@ Home • Sales Overview • Product & SalesPerson • Customer Analytics
 Power BI • Power Query • DAX • Data Modeling
 
 ## ▶️ How to Use
-Download `AdventureWorks_Sales_Dashboard.pbix` and open it in Power BI Desktop (free).
+Download `Dhiru adventure works.pbix` and open it in Power BI Desktop (free).
 
 ## 🙏 Acknowledgements
 Thanks to **WhiteScholars** and my trainer **Rajashekhar Sir** for their guidance.# AdventureWorks-PowerBI-Dashboard
