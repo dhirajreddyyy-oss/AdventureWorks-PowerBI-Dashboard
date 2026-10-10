@@ -11,7 +11,7 @@ An interactive **Power BI** dashboard built on the AdventureWorks dataset, analy
 | 📦 Units Sold | **275K** |
 
 ## 💡 Key Insights
-- 🇺🇸 The US generates **57% of total sales**
+- - 🌎 The US generates **57% of total sales**
 - 🚵 **Mountain Bikes** are the most profitable category ($4.9M)
 - 📅 Revenue peaks in **March** and **October**
 - 🔁 **Over 99% of customers** are returning buyers
